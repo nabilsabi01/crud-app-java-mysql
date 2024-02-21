@@ -40,7 +40,7 @@ public class DatabaseManager {
         statement.executeUpdate();
         connection.close();
         statement.close();
-        System.out.println("Student updated successfully!");
+        System.out.println("Student added successfully!");
     }
 
     public static void updateStudent(Student student) throws SQLException {
