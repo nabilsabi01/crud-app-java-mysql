@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DatabaseManager {
-    private static final String URL = "jdbc:mysql://localhost:3306/db_test";
+    private static final String URL = "jdbc:mysql://localhost:3306/db_students";
     private static final String USERNAME = "root";
     private static final String PASSWORD = "1234";
 
